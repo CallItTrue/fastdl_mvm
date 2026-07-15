@@ -1,0 +1,4 @@
+"lakeside_village"
+{
+	"MountEpisodeOne" "1"
+}

@@ -1,0 +1,155 @@
+"minerva.util_zombiecombat"
+{
+	"playrandom"
+	{
+		"time"		"1,16"
+		"volume"	"0.2,0.4"
+		"pitch"		"90,105"	
+		"rndwave"
+		{
+			"wave"	"ambient/levels/prison/inside_battle1.wav"
+			"wave"	"ambient/levels/prison/inside_battle2.wav"
+			"wave"	"ambient/levels/prison/inside_battle3.wav"
+			"wave"	"ambient/levels/prison/inside_battle4.wav"
+			"wave"	"ambient/levels/prison/inside_battle5.wav"
+			"wave"	"ambient/levels/prison/inside_battle6.wav"
+			"wave"	"ambient/levels/prison/inside_battle7.wav"
+			"wave"	"ambient/levels/prison/inside_battle8.wav"
+			"wave"	"ambient/levels/prison/inside_battle9.wav"
+		}
+		
+	}
+
+	"playrandom"
+	{
+		"time"		"2,16"
+		"volume"	"0.2,0.4"
+		"pitch"		"90,105"
+
+		"rndwave"
+		{
+			"wave"	"ambient/levels/prison/inside_battle_zombie1.wav"
+			"wave"	"ambient/levels/prison/inside_battle_zombie2.wav"
+			"wave"	"ambient/levels/prison/inside_battle_zombie3.wav"
+			"wave"	"ambient/levels/prison/inside_battle_soldier1.wav"
+			"wave"	"ambient/levels/prison/inside_battle_soldier2.wav"
+			"wave"	"ambient/levels/prison/inside_battle_soldier3.wav"
+		}
+		
+	}
+
+}
+
+"minerva.zombies_shoreline"
+{
+	"dsp"	"1"
+
+	"playsoundscape"
+	{
+		"name"	"coast.util_shoreline"
+		"volume" "0.5"
+	}
+
+	"playsoundscape"
+	{
+		"name"	"coast.util_distant_shoreline"
+		"volume" "0.8"
+	}
+
+	"playsoundscape"
+	{
+		"name" "coast.util_windgusts"
+		"volume" "0.9"
+	}
+
+	"playrandom"
+	{
+		"time"		"7, 16"
+		"volume"	"0.4,0.7"
+		"pitch"		"95,110"
+		"position"	"random"
+		"soundlevel"	"SNDLVL_140db"
+		"rndwave"
+		{
+			"wave"	"ambient/wind/wind_moan1.wav"
+			"wave"	"ambient/wind/wind_moan2.wav"
+			"wave"	"ambient/wind/wind_snippet1.wav"
+			"wave"	"ambient/wind/wind_snippet2.wav"
+			"wave"	"ambient/wind/wind_moan4.wav"
+			"wave"	"ambient/atmosphere/hole_hit1.wav"
+			"wave"	"ambient/atmosphere/hole_hit5.wav"
+			"wave"	"ambient/creatures/town_zombie_call1.wav"
+			"wave"	"ambient/creatures/town_moan1.wav"
+		}
+		
+	}
+}
+
+"minerva.zombies_distant_shoreline"
+{
+	"playsoundscape"
+	{
+		"name"	"coast.util_distant_shoreline"
+		"volume" "0.7"
+	}
+
+	"playsoundscape"
+	{
+		"name" "coast.util_windgusts"
+		"volume" "0.8"
+	}
+
+
+	"playrandom"
+	{
+		"time"		"7, 16"
+		"volume"	"0.4,0.7"
+		"pitch"		"95,110"
+		"position"	"random"
+		"soundlevel"	"SNDLVL_140db"
+		"rndwave"
+		{
+			"wave"	"ambient/wind/wind_moan1.wav"
+			"wave"	"ambient/wind/wind_moan2.wav"
+			"wave"	"ambient/wind/wind_snippet1.wav"
+			"wave"	"ambient/wind/wind_snippet2.wav"
+			"wave"	"ambient/wind/wind_moan4.wav"
+			"wave"	"ambient/atmosphere/hole_hit1.wav"
+			"wave"	"ambient/atmosphere/hole_hit5.wav"
+			"wave"	"ambient/creatures/town_zombie_call1.wav"
+			"wave"	"ambient/creatures/town_moan1.wav"
+		}
+		
+	}
+}
+
+"minerva.zombies_underground"
+{
+	"playsoundscape"
+	{
+		"name" "prison.util_quiet_cellblock"
+		"volume" "1.0"
+	}
+
+	"playsoundscape"
+	{
+		"name" "minerva.util_zombiecombat"
+		"volume" "1.0"
+	}
+}
+
+"minerva.nothing"
+{
+	"playsoundscape"
+	{
+		"name"	"coast.util_distant_shoreline"
+		"volume" "0.4"
+	}
+
+	"playsoundscape"
+	{
+		"name" "coast.util_windgusts"
+		"volume" "0.4"
+	}
+
+}

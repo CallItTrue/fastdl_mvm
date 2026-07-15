@@ -1,0 +1,4 @@
+"ep2_sad_island"
+{
+	"MountEpisodeTwo" "1"
+}

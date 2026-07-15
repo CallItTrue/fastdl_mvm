@@ -1,0 +1,5 @@
+"syn_trials4b"
+{
+	"MountEpisodeOne" "1"
+	"MountEpisodeTwo" "1"
+}

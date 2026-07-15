@@ -1,0 +1,5 @@
+"oc_deathball_v1"
+{
+	"MountEpisodeTwo" "1"
+	"MountEpisodeOne" "1"
+}

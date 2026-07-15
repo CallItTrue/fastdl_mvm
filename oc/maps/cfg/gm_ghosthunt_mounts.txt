@@ -1,0 +1,5 @@
+"gm_ghosthunt"
+{
+	"MountEpisodeOne" "1"
+	"MountEpisodeTwo" "1"
+}
