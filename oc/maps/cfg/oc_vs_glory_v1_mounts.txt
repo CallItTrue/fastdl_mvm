@@ -1,4 +1,0 @@
-"oc_vs_glory"
-{
-	"MountEpisodeTwo" "1"
-}

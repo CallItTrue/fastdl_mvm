@@ -1,5 +1,0 @@
-"vertexlitgeneric" {
-    "$basetexture" "models\paysan\banana_tree_trunk01a"
-    "$bumpmap" "models\paysan\banana_tree_trunk01a_bump"
-    "$surfaceprop" "wood"
-}

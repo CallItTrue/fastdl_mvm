@@ -1,4 +1,0 @@
-"neuromancer_v_6_pak3"
-{
-	"MountEpisodeTwo" "1"
-}

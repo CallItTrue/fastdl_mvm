@@ -1,5 +1,0 @@
-"oc_restaurant_v33_39"
-{
-	"MountEpisodeOne" "1"
-	"MountEpisodeTwo" "1"
-}

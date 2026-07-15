@@ -1,4 +1,0 @@
-"oc_underground_horror_maze"
-{
-	"MountEpisodeTwo" "1"
-}

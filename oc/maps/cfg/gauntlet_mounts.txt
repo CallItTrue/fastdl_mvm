@@ -1,4 +1,0 @@
-"gauntlet"
-{
-	"MountEpisodeTwo" "1"
-}

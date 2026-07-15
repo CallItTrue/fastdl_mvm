@@ -1,5 +1,0 @@
-"foresttrain"
-{
-	"MountEpisodeOne" "1"
-	"MountEpisodeTwo" "1"
-}

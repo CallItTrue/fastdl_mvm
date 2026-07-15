@@ -1,5 +1,0 @@
-"gm_ghosthunt_2"
-{
-	"MountEpisodeOne" "1"
-	"MountEpisodeTwo" "1"
-}

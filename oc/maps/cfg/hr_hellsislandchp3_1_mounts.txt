@@ -1,5 +1,0 @@
-"hr_hellsisland"
-{
-	"MountEpisodeOne" "1"
-	"MountEpisodeTwo" "1"
-}

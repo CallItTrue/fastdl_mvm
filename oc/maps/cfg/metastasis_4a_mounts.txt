@@ -1,4 +1,0 @@
-"metastasis_4a"
-{
-	"MountEpisodeOne" "1"
-}

@@ -1,4 +1,0 @@
-"CastleSiege_thc16c5"
-{
-	"MountEpisodeTwo" "1"
-}

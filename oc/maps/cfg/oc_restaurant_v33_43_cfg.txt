@@ -1,7 +1,0 @@
-"oc_restaurant_v33_39"
-{
-	"mp_falldamage" "1"
-	"mp_flashlight" "1"
-	"sv_infinite_aux_power" "0"
-	"sv_allownegativescore" "0"
-}

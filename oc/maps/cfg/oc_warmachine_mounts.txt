@@ -1,4 +1,0 @@
-"oc_warmachine"
-{
-	"MountEpisodeTwo" "1"
-}

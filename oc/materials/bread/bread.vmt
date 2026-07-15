@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "Bread/Bread"
-	"$bumpmap" "Bread/Bread_Normal"
-	"$surfaceprop" "sand"
-}

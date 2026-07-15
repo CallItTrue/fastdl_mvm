@@ -1,4 +1,0 @@
-"oc_l4d_trainstation_01_v1"
-{
-	"MountEpisodeTwo" "1"
-}

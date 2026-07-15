@@ -1,5 +1,0 @@
-"syn_trials4c"
-{
-	"MountEpisodeOne" "1"
-	"MountEpisodeTwo" "1"
-}
